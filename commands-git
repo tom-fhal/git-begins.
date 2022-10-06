@@ -5,3 +5,5 @@ git push <remote> --force
 git push <remote> --all
 
 git push <remote> --tags
+
+git pull
