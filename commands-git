@@ -5,3 +5,7 @@ git push <remote> --all
 git push <remote> --tags
 
 git pull
+
+git branch ne<_branch
+
+git checkout new_branch
